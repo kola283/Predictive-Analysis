@@ -1,2 +1,2 @@
 # Predictive-Analysis
-Sistem Predictive Analysis untuk memprediksi harga emas berdasarkan data harga pada tahun-tahun sebelumnya
+Sistem Predictive Analysis untuk memprediksi harga emas berdasarkan data harga pada tahun-tahun sebelumnya. Domain yang saya ambil di sini adalah pada bidang Ekonomi dan Bisnis. Saya akan mengambil topik tentang harga emas. Karena harga emas sering digunakan sebagai standar nilai mata uang dunia serta harga yang fluktuatif mengikuti kondisi pasar, maka prediksi harga emas sangat dibutuhkan bagi banyak orang yang sering berinvestasi pada instrumen ini. Proyek ini bertujuan untuk memprediksi harga optimal emas berdasarkan data-data pada tahun sebelumnya.
